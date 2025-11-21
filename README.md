@@ -1,4 +1,3 @@
-````markdown
 # 📚 Multilingual Document Q&A System
 
 A simple full-stack application that lets users:
