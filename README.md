@@ -223,8 +223,3 @@ BACKEND_URL = "http://localhost:8000"
 ## 👤 Author
 
 * **Name:** *Krishna Saverdekar*
-
-```
-
-If you want, I can also give you 2–3 bullet points to describe this in your project report or slide deck.
-```
