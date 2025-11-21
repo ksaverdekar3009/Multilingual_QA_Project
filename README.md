@@ -1,5 +1,7 @@
 # 📚 Multilingual Document Q&A System
 
+checkout here :- https://ksaverdekar3009-multilingual-qa-project-srcfrontendapp-5c0i8q.streamlit.app/
+
 A simple full-stack application that lets users:
 
 - Upload a **PDF document** (10–15 pages recommended)
